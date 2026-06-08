@@ -23,7 +23,7 @@ body {
 
 .section-title h2 {
     font-size: 36px;
-    color: #2c3e50;
+    color:#1D4ED8;
     margin-bottom: 10px;
 }
 
@@ -51,7 +51,7 @@ body {
 .logo {
     font-size: 26px;
     font-weight: 800;
-    color: #ff5a5f;
+    color: #1E3A8A;
     letter-spacing: 1px;
 }
 
@@ -64,17 +64,17 @@ body {
 
 .navbar a {
     text-decoration: none;
-    color: #484848;
+    color: #1E3A8A;
     font-weight: 600;
     transition: color 0.3s;
 }
 
 .navbar a:hover {
-    color: #ff5a5f;
+    color: #60A5FA;
 }
 
 .btn-contato {
-    background-color: #ff5a5f;
+    background-color: #1E3A8A;
     color: white !important;
     padding: 10px 24px;
     border-radius: 25px;
@@ -82,7 +82,7 @@ body {
 }
 
 .btn-contato:hover {
-    background-color: #e0484d;
+    background-color:#1E3A8A;
     transform: scale(1.05);
 }
 
@@ -122,19 +122,18 @@ body {
 
 .btn-principal {
     display: inline-block;
-    background-color: #008489;
+    background-color: #1D4ED8;
     color: white;
     text-decoration: none;
     padding: 16px 38px;
     font-size: 18px;
     font-weight: 600;
     border-radius: 30px;
-    box-shadow: 0 4px 15px rgba(0, 132, 137, 0.4);
     transition: transform 0.3s, background-color 0.3s;
 }
 
 .btn-principal:hover {
-    background-color: #006c70;
+    background-color: #2563EB;
     transform: translateY(-3px);
 }
 
@@ -176,7 +175,7 @@ body {
 
 .card-content h3 {
     font-size: 22px;
-    color: #2c3e50;
+    color:#60A5FA;
     margin-bottom: 10px;
 }
 
@@ -196,12 +195,12 @@ body {
 .preco {
     font-size: 20px;
     font-weight: 700;
-    color: #2c3e50;
+    color: #60A5FA;
 }
 
 .btn-card {
     text-decoration: none;
-    color: #008489;
+    color: #60A5FA;
     font-weight: bold;
     border: 2px solid #008489;
     padding: 8px 18px;
@@ -243,7 +242,7 @@ body {
 
 .vantagem-item h3 {
     font-size: 20px;
-    color: #2c3e50;
+    color: #1D4ED8;
     margin-bottom: 10px;
 }
 
@@ -272,7 +271,7 @@ body {
     border-radius: 8px;
     max-width: 450px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.04);
-    border-left: 5px solid #ff5a5f;
+    border-left: 5px solid #1E3A8A
 }
 
 .texto-depoimento {
@@ -290,7 +289,7 @@ body {
    6. RODAPÉ (FOOTER)
    ========================================== */
 footer {
-    background-color: #2c3e50;
+    background-color: #1E3A8A;
     color: #ecf0f1;
     padding: 60px 8% 20px;
 }
@@ -329,7 +328,7 @@ footer {
 }
 
 .footer-col a:hover {
-    color: #ff5a5f;
+    color:#1E3A8A;
 }
 
 .footer-col p {
